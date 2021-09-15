@@ -6,7 +6,7 @@
 
 clear all
 close all
-load PLAB4.mat
+load Data.mat
 %Analysis 1
 figure
 hold on
