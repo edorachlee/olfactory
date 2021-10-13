@@ -1,4 +1,5 @@
 Author: Chang Hi Lee
+
 **Note: Performed as part of school work. Course number and instructor information have been omitted to prevent plagiarism.**
 
 Description: This code attempts to classify locust olfactory response to two types of odors, Hexanol(pink) and Benzaldehyde(blue). The Perceptron classifier(a.k.a "filter" in code) is trained on two sets of responses from pink and blue stimuli, respectively. Then, it predicts the response to a new set of pink and blue stimuli. The accuracy comparisons of each prediction are plotted.
